@@ -103,14 +103,14 @@
       "role": "user",
       "id": 18
     }
-  ],
-  "shops": [
+  ], 
+"shops": [
     {
       "id": 1,
       "shopName": "提拉米蘇精緻蛋糕-承德店",
       "address": "台北市大同區承德路一段55號",
-      "lat": 25.051712,
-      "lng": 121.517031,
+      "lat": 25.051731064574742,
+      "lng": 121.51741107534318,
       "picture": [
         "https://www.tiramisu.com.tw/up/photo/c4ea15604f5f98600b1b5833e947509d.JPG",
         "https://www.tiramisu.com.tw/up/photo/4b94dec3121ba5edae2735e5e5f4fa3f.JPG"
@@ -126,8 +126,8 @@
       "id": 2,
       "shopName": "Tella Tella Cafe",
       "address": "台北市大同區赤峰街49巷22號2樓",
-      "lat": 25.0556834,
-      "lng": 121.5197438,
+      "lat": 25.055954321725245,
+      "lng": 121.52033391223601,
       "picture": [
         "./assets/images/shop-pic/13on-z4BJGODf6O4-unsplash.jpg",
         "./assets/images/shop-pic/taylor-kiser-tCnOMWITk_4-unsplash.jpg"
@@ -143,8 +143,8 @@
       "id": 3,
       "shopName": "登波咖啡",
       "address": "台北市大同區赤峰街49巷25號",
-      "lat": 25.0558077,
-      "lng": 121.5198252,
+      "lat": 25.05609610011987,
+      "lng": 121.52036918955875,
       "picture": [
         "./assets/images/shop-pic/brina-blum-P9WkD82hLUI-unsplash.jpg",
         "./assets/images/shop-pic/chaman-raj-0lmVsDyqpVI-unsplash.jpg"
@@ -160,8 +160,8 @@
       "id": 4,
       "shopName": "Her Rose Café // 水果塔專賣",
       "address": "台北市大同區赤峰街53巷21號1樓",
-      "lat": 25.0558065,
-      "lng": 121.5203724,
+      "lat": 25.05631165649787,
+      "lng": 121.52021169689472,
       "picture": [
         "./assets/images/shop-pic/natalia-yakovleva-o9kswzHrvMs-unsplash.jpg",
         "./assets/images/shop-pic/yulia-khlebnikova-BayU5G2jPaQ-unsplash.jpg"
@@ -177,8 +177,8 @@
       "id": 5,
       "shopName": "Miss V Bakery Cafe 赤峰店",
       "address": "台北市大同區赤峰街49巷22號1樓",
-      "lat": 25.0556969,
-      "lng": 121.519517,
+      "lat": 25.055847410535833,
+      "lng": 121.52030172572995,
       "picture": [
         "./assets/images/shop-pic/sebastian-coman-photography-QcerUj-jYig-unsplash.jpg",
         "./assets/images/shop-pic/oliver-timm-haarmann-p6OLZPnq810-unsplash.jpg"
@@ -192,10 +192,10 @@
     },
     {
       "id": 6,
-      "shopName": "荷蘭小鬆餅南西中山店",
+      "shopName": "荷蘭小鬆餅-南西中山店",
       "address": "台北市大同區南京西路64巷9弄19號",
-      "lat": 25.0524019,
-      "lng": 121.5190218,
+      "lat": 25.052514356591946,
+      "lng": 121.51930061038858,
       "picture": [
         "./assets/images/shop-pic/douch.PNG",
         "./assets/images/shop-pic/artem-maltsev-3eYN5txZB1s-unsplash.jpg"
@@ -211,8 +211,8 @@
       "id": 7,
       "shopName": "Moshi Café 台北中山店",
       "address": "台北市大同區赤峰街17巷18-1號1樓",
-      "lat": 25.0534383,
-      "lng": 121.5197229,
+      "lat": 25.05378001332383,
+      "lng": 121.52005602572996,
       "picture": [
         "./assets/images/shop-pic/alexandra-kusper-88sNfcLB_KM-unsplash.jpg",
         "./assets/images/shop-pic/alana-harris-sSLi0wraDmQ-unsplash.jpg"
@@ -227,8 +227,8 @@
       "id": 8,
       "shopName": "這裡 ICI ORIGIN",
       "address": "台北市中山區南京西路23巷5號2樓",
-      "lat": 25.053496,
-      "lng": 121.5204044,
+      "lat": 25.053661213484062,
+      "lng": 121.52068872572994,
       "picture": [
         "./assets/images/shop-pic/pushpak-dsilva-Le7eYWBIvio-unsplash.jpg",
         "./assets/images/shop-pic/mink-mingle-LGNxQzYmeUk-unsplash.jpg"
@@ -243,8 +243,8 @@
       "id": 9,
       "shopName": "佐曼咖啡館",
       "address": "台北市中山區中山北路二段16巷23-1號",
-      "lat": 25.0532101,
-      "lng": 121.5185549,
+      "lat": 25.053331636271043,
+      "lng": 121.52074359689465,
       "picture": [
         "./assets/images/shop-pic/melissia-ohol-7dhnDG46L2E-unsplash.jpg",
         "./assets/images/shop-pic/gaby-dyson-QX814A1w3j4-unsplash.jpg"
@@ -259,8 +259,8 @@
       "id": 10,
       "shopName": "悄悄好食 BE OK 中山店",
       "address": "台北市中山區中山北路二段16巷9號",
-      "lat": 25.0531557,
-      "lng": 121.5210433,
+      "lat": 25.05333335275918,
+      "lng": 121.52160359689455,
       "picture": [
         "https://static.wixstatic.com/media/03937e_db11841b88c143ff96f2ff028ed0a3a2~mv2.jpg/v1/crop/x_0,y_2,w_518,h_518/fill/w_305,h_305,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%AA%B8%E6%AA%AC%E8%82%89%E6%A1%82%E8%9C%9C%E6%A9%99%E4%B8%81_edited.jpg",
         "https://static.wixstatic.com/media/a4d736_e751e7a639cf42489910085f35a1afb8~mv2.jpg/v1/fill/w_851,h_682,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a4d736_e751e7a639cf42489910085f35a1afb8~mv2.jpg"
@@ -276,8 +276,8 @@
       "id": 11,
       "shopName": "司康小売所",
       "address": "台北市中山區中山北路二段26巷3號",
-      "lat": 25.0540211,
-      "lng": 121.5220022,
+      "lat": 25.05421513208329,
+      "lng": 121.52210272573005,
       "picture": [
         "https://cdn.store-assets.com/s/769369/i/32651632.jpg?width=1024&format=webp",
         "https://cdn.store-assets.com/s/769369/i/33006251.jpg?width=480&format=webp"
@@ -292,8 +292,8 @@
       "id": 12,
       "shopName": "敘‧XHALE",
       "address": "台北市大同區赤峰街35-1號",
-      "lat": 25.0546061,
-      "lng": 121.5191463,
+      "lat": 25.054739089253747,
+      "lng": 121.519466539224,
       "picture": [
         "./assets/images/shop-pic/massimo-adami-mtut50xOeC4-unsplash.jpg",
         "./assets/images/shop-pic/rizky-subagja-qlycttMRYIY-unsplash.jpg"
@@ -308,8 +308,8 @@
       "id": 13,
       "shopName": "漫拾",
       "address": "台北市大同區承德路一段68-1號",
-      "lat": 25.0519611,
-      "lng": 121.5171081,
+      "lat": 25.052437812577235,
+      "lng": 121.51718999689464,
       "picture": [
         "./assets/images/shop-pic/razvan-mirel-tas-1lvQE6Q-unsplash.jpg",
         "./assets/images/shop-pic/diliara-garifullina-cRwZACu3kQI-unsplash.jpg"
@@ -323,10 +323,10 @@
     },
     {
       "id": 14,
-      "shopName": "ABCD . A Better Coffee &amp; Doughnut",
+      "shopName": "ABCD.A Better Coffee & Doughnut",
       "address": "台北市大同區南京西路18巷4弄8號",
-      "lat": 25.0522714,
-      "lng": 121.5196951,
+      "lat": 25.052570092866553,
+      "lng": 121.51965599689454,
       "picture": [
         "./assets/images/shop-pic/serghei-savchiuc-Ic0E0y6Zo20-unsplash.jpg"
       ],
@@ -338,10 +338,10 @@
     },
     {
       "id": 15,
-      "shopName": "Middle Name coffee &amp; space",
+      "shopName": "Middle Name coffee & space",
       "address": "台北市大同區南京西路18巷10號",
-      "lat": 25.0516915,
-      "lng": 121.5201392,
+      "lat": 25.0518530135976,
+      "lng": 121.52015218340061,
       "picture": [
         "./assets/images/shop-pic/stefan-k-PzJslB7ds_Y-unsplash.jpg",
         "./assets/images/shop-pic/lemonpei.jpg"
@@ -356,8 +356,8 @@
       "id": 16,
       "shopName": "鐵木Ironwood 台北店",
       "address": "台北市大同區南京西路64巷16-2號2樓",
-      "lat": 25.0517747,
-      "lng": 121.5179813,
+      "lat": 25.051954132950453,
+      "lng": 121.51850846805925,
       "picture": [
         "https://shoplineimg.com/5cca7130670f280001669d6e/6341833d78325c0022e43f70/1200x.webp?source_format=jpg"
       ],
@@ -372,8 +372,8 @@
       "id": 17,
       "shopName": "慢爐 Man Ju",
       "address": "台北市中山區中山北路一段121巷36-2號",
-      "lat": 25.0503396,
-      "lng": 121.5222561,
+      "lat": 25.050995995488332,
+      "lng": 121.52463166805919,
       "picture": [
         "./assets/images/shop-pic/claudia-soares-ewOrvEa87j4-unsplash.jpg",
         "./assets/images/shop-pic/13on-z4BJGODf6O4-unsplash.jpg"
@@ -388,8 +388,8 @@
       "id": 18,
       "shopName": "伊藤久右衛門",
       "address": "台北市中山區中山北路一段132號",
-      "lat": 25.0512642,
-      "lng": 121.519982,
+      "lat": 25.051468294701774,
+      "lng": 121.5220633545653,
       "picture": [
         "./assets/images/shop-pic/toa-heftiba-2eylVMKAr1A-unsplash.jpg",
         "./assets/images/shop-pic/shiho-azuma-9w_XWO-YU8A-unsplash.jpg"
@@ -405,8 +405,8 @@
       "id": 19,
       "shopName": "Hoto Cafe",
       "address": "台北市中山區南京東路一段13巷7弄6號",
-      "lat": 25.0530815,
-      "lng": 121.5225193,
+      "lat": 25.0537326684849,
+      "lng": 121.52427343922382,
       "picture": [
         "./assets/images/shop-pic/melissia-ohol-7dhnDG46L2E-unsplash.jpg",
         "./assets/images/shop-pic/jordane-mathieu-q8-yKQ3P7J0-unsplash.jpg"
@@ -421,8 +421,8 @@
       "id": 20,
       "shopName": "Hera Cafe",
       "address": "台北市大同區承德路二段1巷7號",
-      "lat": 25.0536569,
-      "lng": 121.5173706,
+      "lat": 25.053860990716387,
+      "lng": 121.51840059689461,
       "picture": [
         "./assets/images/shop-pic/diliara-garifullina-TOSfAhyIEJA-unsplash.jpg",
         "./assets/images/shop-pic/charisse-kenion-jjdHEFvTF-c-unsplash.jpg"
@@ -438,8 +438,8 @@
       "id": 21,
       "shopName": "蜜菓拾伍",
       "address": "台北市大同區赤峰街77巷3號",
-      "lat": 25.0571038,
-      "lng": 121.5188464,
+      "lat": 25.05711622190981,
+      "lng": 121.51987446032425,
       "picture": [
         "./assets/images/shop-pic/frosty-ilze-lD0JFJDXBfQ-unsplash.jpg",
         "./assets/images/shop-pic/hanh-nguyen-j6DH45Bflho-unsplash.jpg"
@@ -455,8 +455,8 @@
       "id": 22,
       "shopName": "果昂甜品illuminé",
       "address": "台北市大同區萬全街1-8號",
-      "lat": 25.0592452,
-      "lng": 121.5192792,
+      "lat": 25.059240623582596,
+      "lng": 121.52009651144867,
       "picture": [
         "./assets/images/shop-pic/oliver-timm-haarmann-p6OLZPnq810-unsplash.jpg",
         "./assets/images/shop-pic/anto-meneghini-M218Zx_pTLw-unsplash.jpg"
@@ -472,8 +472,8 @@
       "id": 23,
       "shopName": "貨室甜品 HuoShih",
       "address": "台北市大同區赤峰街71巷34號",
-      "lat": 25.0565704,
-      "lng": 121.5197119,
+      "lat": 25.056588179021503,
+      "lng": 121.5204419744443,
       "picture": [
         "./assets/images/shop-pic/camila-melim-yHQfZ9TuZn4-unsplash.jpg",
         "./assets/images/shop-pic/dovile-ramoskaite-iT4qcNMhYTQ-unsplash.jpg"
@@ -489,8 +489,8 @@
       "id": 24,
       "shopName": "and.room_taipei",
       "address": "10491台北市中山區中山北路一段140巷18號4樓",
-      "lat": 25.0513884,
-      "lng": 121.5192087,
+      "lat": 25.05139920283583,
+      "lng": 121.52126526609025,
       "picture": [
         "./assets/images/shop-pic/diliara-garifullina-Gx_vsiMRgzk-unsplash.jpg",
         "./assets/images/shop-pic/brooke-lark-of0pMsWApZE-unsplash.jpg"
@@ -506,8 +506,8 @@
       "id": 25,
       "shopName": "沃森 WOSOM / ASW",
       "address": "台北市大同區迪化街一段34號2樓",
-      "lat": "25.0546552",
-      "lng": "121.5079348",
+      "lat": 25.05466557829539,
+      "lng": 121.50999406463492,
       "picture": [
         "./assets/images/shop-pic/wosom.jpg",
         "./assets/images/shop-pic/alina-karpenko-d8GDJalt_BE-unsplash.jpg"
@@ -523,8 +523,8 @@
       "id": 26,
       "shopName": "芙稻菓室 Fú Dàu Pastry Studio",
       "address": "台北市大同區延平北路二段25號1F",
-      "lat": "25.0549779",
-      "lng": "121.5100645",
+      "lat": 25.05468961400215,
+      "lng": 121.51183536035828,
       "picture": [
         "./assets/images/shop-pic/coralline-clin-CBpeqArDM0A-unsplash.jpg",
         "./assets/images/shop-pic/rizky-subagja-qlycttMRYIY-unsplash.jpg"
@@ -540,10 +540,10 @@
       "id": 27,
       "shopName": "沙丘",
       "address": "台北市大同區延平北路二段62號5樓",
-      "lat": "25.0557404",
-      "lng": "121.5098784",
+      "lat": 25.055536976351995,
+      "lng": 121.51155596344596,
       "picture": [
-        "./assets/images/shop-pic/dune.jpg",
+        "./assets/images/shop-pic/Dune.jpg",
         "./assets/images/shop-pic/dune3.PNG"
       ],
       "openTime": "11:33–17:55 / 三四公休",
@@ -557,8 +557,8 @@
       "id": 28,
       "shopName": "Pennylane Studio 移動甜點工作室",
       "address": "台北市大同區塔城街33號2樓",
-      "lat": "25.0522549",
-      "lng": "121.508495",
+      "lat": 25.05226787034487,
+      "lng": 121.51057078486288,
       "picture": [
         "./assets/images/shop-pic/gaelle-marcel-3o2j1uvUfAM-unsplash.jpg",
         "./assets/images/shop-pic/gaby-dyson-QX814A1w3j4-unsplash.jpg"
@@ -574,8 +574,8 @@
       "id": 29,
       "shopName": "孵珈琲洋館",
       "address": "台北市大同區歸綏街218-1號",
-      "lat": "25.057985",
-      "lng": "121.5087494",
+      "lat": 25.05818230413879,
+      "lng": 121.51042553387298,
       "picture": [
         "./assets/images/shop-pic/junel-mujar-Wq0tcKzIa0M-unsplash.jpg",
         "./assets/images/shop-pic/hugo-aitken-PqYvDBwpXpU-unsplash.jpg"
@@ -591,8 +591,8 @@
       "id": 30,
       "shopName": "昭和浪漫洗濯屋_霜淇淋專賣店",
       "address": "台北市大同區安西街3號",
-      "lat": "25.059189",
-      "lng": "121.5084278",
+      "lat": 25.059198905609797,
+      "lng": 121.51016088024332,
       "picture": [
         "./assets/images/shop-pic/camila-melim-yHQfZ9TuZn4-unsplash.jpg",
         "./assets/images/shop-pic/najlacam-f8TajCVv4s8-unsplash.jpg"
@@ -608,8 +608,8 @@
       "id": 31,
       "shopName": "迪化半日茶屋",
       "address": "台北市大同區迪化街一段133號",
-      "lat": "25.0584455",
-      "lng": "121.5082937",
+      "lat": 25.057641582540246,
+      "lng": 121.50982989414545,
       "picture": [
         "./assets/images/shop-pic/600x.jpg",
         "https://shoplineimg.com/61a997294dead30031efd1f6/62762db57e020e002d251e90/600x.webp?source_format=jpg"
@@ -623,10 +623,10 @@
     },
     {
       "id": 32,
-      "shopName": "耳邊風 ",
+      "shopName": "耳邊風",
       "address": "台北市大同區迪化街一段224巷26號",
-      "lat": "25.0594252 ",
-      "lng": "121.5077505 ",
+      "lat": 25.05944115535821,
+      "lng": 121.50861762441606,
       "picture": ["./assets/images/shop-pic/675042.jpg"],
       "openTime": "11:00–18:00 / 週二公休 ",
       "tel": "0225528185",
@@ -639,8 +639,8 @@
       "id": 33,
       "shopName": "Greedy Beagle 貪吃狗",
       "address": "台北市中山區民生西路66巷15號1樓",
-      "lat": "25.0570811",
-      "lng": "121.5198396",
+      "lat": 25.05715594550951,
+      "lng": 121.52085512601558,
       "picture": [
         "./assets/images/shop-pic/fernando-andrade-_OhdR0TPeUE-unsplash.jpg",
         "./assets/images/shop-pic/aliona-gumeniuk-GAauSStia3s-unsplash.jpg"
@@ -656,8 +656,8 @@
       "id": 34,
       "shopName": "好人好室 x 七二聚場",
       "address": "台北市中山區中山北路二段72巷18-1號3樓",
-      "lat": "25.0570109",
-      "lng": "121.5193869 ",
+      "lat": 25.057025014558224,
+      "lng": 121.52157667252835,
       "picture": [
         "./assets/images/shop-pic/shania-pinnata-Ikd6YJVofEE-unsplash.jpg",
         "./assets/images/shop-pic/vicky-ng--XqtRzegiaM-unsplash.jpg"
@@ -673,8 +673,8 @@
       "id": 35,
       "shopName": "Hudson Coffee",
       "address": "台北市大同區赤峰街26-2號",
-      "lat": "25.0563129",
-      "lng": "121.5174715",
+      "lat": 25.056320746280363,
+      "lng": 121.51966394941287,
       "picture": [
         "./assets/images/shop-pic/serghei-savchiuc-Ic0E0y6Zo20-unsplash.jpg"
       ],
@@ -689,8 +689,8 @@
       "id": 36,
       "shopName": "好啊 Cafe",
       "address": "台北市大同區萬全街46號",
-      "lat": "25.0585365",
-      "lng": "121.5176759",
+      "lat": 25.058543975506918,
+      "lng": 121.51986019740902,
       "picture": [
         "./assets/images/shop-pic/lemonpei.jpg",
         "./assets/images/shop-pic/artem-maltsev-3eYN5txZB1s-unsplash.jpg"
@@ -706,8 +706,8 @@
       "id": 37,
       "shopName": "哩家咖啡",
       "address": "台北市大同區重慶北路一段26巷49號",
-      "lat": "25.0511774",
-      "lng": "121.5125616",
+      "lat": 25.051191772348112,
+      "lng": 121.51256157017318,
       "picture": [
         "./assets/images/shop-pic/hugo-aitken-PqYvDBwpXpU-unsplash.jpg",
         "./assets/images/shop-pic/massimo-adami-TZiT3GH8aW4-unsplash.jpg"
